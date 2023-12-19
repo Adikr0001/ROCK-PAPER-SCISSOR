@@ -1,0 +1,30 @@
+Rock, Paper, Scissors Game
+
+Overview :
+Welcome to the Rock, Paper, Scissors game! This simple Python program allows you to play the classic game against the computer.
+
+How to Play:
+Clone this repository to your local machine.
+Open a terminal and navigate to the project directory.
+Run the rps.py file using Python: rps.py
+Follow the on-screen instructions to make your move (rock, paper, or scissors).
+See if you can outsmart the computer and win the game!
+
+Features:
+User-friendly interface for an easy and enjoyable gaming experience.
+Randomized computer moves to keep the game unpredictable.
+Simple code structure, making it a great starting point for Python beginners.
+
+Requirements:
+Python 3.x
+
+Usage: 
+Feel free to use and modify the code for your learning and development purposes. If you come up with improvements, consider contributing to make this project even better!
+
+License:
+This Rock, Paper, Scissors game is licensed under the MIT License. Feel free to use and share it according to the terms specified in the license.
+
+ Author:
+[Aditya Kumar]
+
+Enjoy playing Rock, Paper, Scissors! If you have any questions or suggestions, feel free to reach out
